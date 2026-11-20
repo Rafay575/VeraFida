@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.env*
+!.env.example
+out/
+
+# Original template package and source artwork
+/Startup/
+/Docs/
+/Italic V2.png
+/public/assets/verafide-logo.png
+/public/assets/img/portfolio-*.jpg
+/public/assets/img/user.jpg
